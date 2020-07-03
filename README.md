@@ -7,11 +7,17 @@
 ![Default Type Theme blog](https://bloc-global-assets.s3.amazonaws.com/portfolio/portfolio-kami.png)
 
 <hr>
-## Login Page ##
+
+## Login Page 
+
 ![Default Type Theme blog](https://bloc-global-assets.s3.amazonaws.com/portfolio/portfolio-kami.png)
+
 <hr>
-## Forgot Password Page ##
+
+## Forgot Password Page 
+
 ![Default Type Theme blog](https://bloc-global-assets.s3.amazonaws.com/portfolio/portfolio-kami.png)
+
 <hr>
 
 # Contributing #
