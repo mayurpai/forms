@@ -4,19 +4,19 @@
 
 ## Registeration Page 
 
-![Default Type Theme blog](https://bloc-global-assets.s3.amazonaws.com/portfolio/portfolio-kami.png)
+![Default Type Theme blog](images/Reg.png)
 
 <hr>
 
 ## Login Page 
 
-![Default Type Theme blog](https://bloc-global-assets.s3.amazonaws.com/portfolio/portfolio-kami.png)
+![Default Type Theme blog](images/Login.png)
 
 <hr>
 
 ## Forgot Password Page 
 
-![Default Type Theme blog](https://bloc-global-assets.s3.amazonaws.com/portfolio/portfolio-kami.png)
+![Default Type Theme blog](images/forgot-pass.png)
 
 <hr>
 
