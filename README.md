@@ -2,7 +2,9 @@
 # Forms #
 <hr>
 ## Registeration Page ##
+
 ![Default Type Theme blog](https://bloc-global-assets.s3.amazonaws.com/portfolio/portfolio-kami.png)
+
 <hr>
 ## Login Page ##
 ![Default Type Theme blog](https://bloc-global-assets.s3.amazonaws.com/portfolio/portfolio-kami.png)
